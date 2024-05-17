@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\m55\m55\bin\Debug\net6.0\m55.exe
+C:\Users\User\source\repos\m55\m55\bin\Debug\net6.0\m55.deps.json
+C:\Users\User\source\repos\m55\m55\bin\Debug\net6.0\m55.runtimeconfig.json
+C:\Users\User\source\repos\m55\m55\bin\Debug\net6.0\m55.dll
+C:\Users\User\source\repos\m55\m55\bin\Debug\net6.0\m55.pdb
+C:\Users\User\source\repos\m55\m55\obj\Debug\net6.0\m55.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\m55\m55\obj\Debug\net6.0\m55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\m55\m55\obj\Debug\net6.0\m55.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\m55\m55\obj\Debug\net6.0\m55.AssemblyInfo.cs
+C:\Users\User\source\repos\m55\m55\obj\Debug\net6.0\m55.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\m55\m55\obj\Debug\net6.0\m55.dll
+C:\Users\User\source\repos\m55\m55\obj\Debug\net6.0\refint\m55.dll
+C:\Users\User\source\repos\m55\m55\obj\Debug\net6.0\m55.pdb
+C:\Users\User\source\repos\m55\m55\obj\Debug\net6.0\m55.genruntimeconfig.cache
+C:\Users\User\source\repos\m55\m55\obj\Debug\net6.0\ref\m55.dll
